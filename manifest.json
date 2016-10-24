@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "TestScreenCap",
+  "short_name": "TestScreenCap",
+  "description": "",
+  "version": "0.0.1",
+  "minimum_chrome_version": "38",
+
+  "icons": {
+    "16": "assets/icon_16.png",
+    "128": "assets/icon_128.png"
+  },
+
+  "browser_action": {
+    "default_icon": "assets/icon_16.png",
+    "default_popup": "popup.html",
+    "default_title": "Click here!"
+  },
+  
+  "permissions": [
+    "activeTab",
+    "<all_urls>",
+    "https://ajax.googleapis.com/"
+  ]
+}
