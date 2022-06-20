@@ -1,1 +1,1 @@
-# ⚠️ Migrated to: https://gitlab.com/filewave/software/capture_chrome_screen
+# ⚠️ Migrated to: https://gitlab.com/fw-oss/capture_chrome_screen
